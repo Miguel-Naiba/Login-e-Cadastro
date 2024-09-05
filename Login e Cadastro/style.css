@@ -32,6 +32,7 @@ h1{
     position: absolute;
     top: 80px;
     left: 755px;
+    cursor: pointer;
 }
 .usuario{
     position: absolute;
@@ -51,6 +52,8 @@ h1{
     border: 0px;
     width: 230px;
     height: 30px;
+    outline: none;
+    cursor: pointer;
 }
 .caixaentrar{
     position: absolute;
@@ -61,6 +64,7 @@ h1{
     width: 234px;
     height: 34px;
     color: white;
+    cursor: pointer;
 }
 .caixaentrars{
     position: absolute;
@@ -71,6 +75,7 @@ h1{
     width: 234px;
     height: 34px;
     color: white;
+    cursor: pointer;
 }
 .caixalogins{
     position: absolute;
@@ -80,6 +85,7 @@ h1{
     border: 0px;
     width: 230px;
     height: 30px;
+    cursor: pointer;
 }
 .caixaloginsenha{
     position: absolute;
@@ -89,6 +95,7 @@ h1{
     border: 0px;
     width: 230px;
     height: 30px;
+    cursor: pointer;
 }
 .caixaloginsenhas{
     position: absolute;
@@ -98,6 +105,7 @@ h1{
     border: 0px;
     width: 230px;
     height: 30px;
+    cursor: pointer;
 }
 .caixaloginsenhass{
     position: absolute;
@@ -107,6 +115,7 @@ h1{
     border: 0px;
     width: 230px;
     height: 30px;
+    cursor: pointer;
 }
 .senha{
     position: absolute;
@@ -132,6 +141,7 @@ h1{
     position: absolute;
     top: 313.5px;
     left: 657px;
+    cursor: pointer;
 }
 .exibirse{
     width: 14px;
@@ -142,16 +152,19 @@ h1{
     position: absolute;
     top: 336px;
     left: 660px;
+    cursor: pointer;
 }
 #exibir{
     position: absolute;
     top: 315px;
     left: 680px;
+
 }
 #exibirse{
     position: absolute;
     top: 338px;
     left: 680px;
+
 }
 #naotem{
     position: absolute;
@@ -162,6 +175,7 @@ h1{
     position: absolute;
     top: 450px;
     left: 595px;
+    cursor: pointer;
 }
 #naotems{
     position: absolute;
@@ -172,6 +186,7 @@ h1{
     position: absolute;
     top: 450px;
     left: 593px;
+    cursor: pointer;
 }
 #entrar{
     position: absolute;
